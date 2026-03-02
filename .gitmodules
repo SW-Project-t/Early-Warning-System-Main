@@ -1,0 +1,9 @@
+[submodule "Web-App"]
+	path = Web-App
+	url = https://github.com/SW-Project-t/web-dashboard.git
+[submodule "Mobile-App"]
+	path = Mobile-App
+	url = https://github.com/SW-Project-t/mobile-app.git
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/SW-Project-t/backend.git
